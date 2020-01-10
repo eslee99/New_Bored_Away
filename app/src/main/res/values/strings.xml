@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bored Away!</string>
+    <string name="title_feeds">Feeds</string>
+    <string name="title_notification">Notification</string>
+    <string name="title_me">Me</string>
+    <string name="titleEvent">title</string>
+</resources>
